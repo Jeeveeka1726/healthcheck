@@ -1,6 +1,6 @@
 # Patient Portal - Digital Health Clinic
 
-A comprehensive patient-facing portal for a digital health clinic built with React frontend and Node.js backend.
+A comprehensive patient-facing portal for a digital health clinic built with React frontend and Node.js backend..
 
 ## Features
 
